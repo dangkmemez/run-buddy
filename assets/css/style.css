@@ -78,7 +78,14 @@
     background-position: center;
     position: relative;
   }
-  /* Hero Style End */
+  /* secondary page hero */
+.hero-secondary {
+    margin: 20px;
+    font-size: 20px;
+    color: red;
+    background-image: url('../images/hero-bg.jpg');
+    background-size: cover;
+  }
   
   .hero-form {
     border: 3px solid #024e76;
@@ -120,7 +127,8 @@
     padding: 10px 20px;
     font-size: 16px;
   }
-  
+  /* Hero Style End */
+
   .intro {
     text-align: center;
   }
@@ -266,4 +274,3 @@
   .contact-info a {
     color: #fce138;
   }
-  
